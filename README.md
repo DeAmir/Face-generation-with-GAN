@@ -7,7 +7,7 @@ This is a keras implementation of a face generating GAN.
 ## The data
 I used the CelebFaces dataset to train the network.\
 Please check out the dataset on kaggle, [here](https://www.kaggle.com/jessicali9530/celeba-dataset).\
-In order for the code to run and fetch the dataset, you have to put your kaggle api key.\
+In order for the code to run and fetch the dataset, you have to put your kaggle api key.
 
 ## The models
 In the notebook, there are several models. Some are better, and some are worse.\
