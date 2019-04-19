@@ -1,1 +1,1 @@
-This is readme.
+# Generating faces with Generative Adversarial Network (GAN)
