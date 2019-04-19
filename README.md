@@ -1,5 +1,8 @@
 # Generating faces with Generative Adversarial Network (GAN)
 This is a keras implementation of a face generating GAN.
+![Gray scale generated faces](https://raw.githubusercontent.com/LoliamShely/Face-generation-with-GAN/master/example_2.png)
+![First colored faces](https://raw.githubusercontent.com/LoliamShely/Face-generation-with-GAN/master/example_1.png)
+![Second colored faces](https://raw.githubusercontent.com/LoliamShely/Face-generation-with-GAN/master/example_3.png)
 
 ## The data
 I used the CelebFaces dataset to train the network.\
