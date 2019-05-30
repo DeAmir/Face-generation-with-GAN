@@ -19,3 +19,6 @@ They are orginized in the following syntax:
 - Sometimes the discriminator takes over the generator, thus making the generator produce less realistic images.
 - Feel free to change the learning rate on of the optimizers (works for me), or add some kind of normalization.
 - Also, if you choose to load the images with gray scale, you have to change the **channels** variable accordingly.
+
+## Todo's
+* Refactor, clean, and re-organize the code.
