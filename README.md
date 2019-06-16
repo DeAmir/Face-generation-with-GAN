@@ -7,7 +7,7 @@ This repo contains an implementation for a DCGAN using PyTorch.
 ## The Data
 I used the CelebFaces dataset to train the network.\
 Please check out the dataset on kaggle, [here](https://www.kaggle.com/jessicali9530/celeba-dataset).\
-In order for the code to run and fetch the dataset, you have to put your kaggle api key.
+In order for the code to run and fetch the dataset, you have to fill your kaggle api key.
 
 ## The Architecture
 The both notebooks follows the paper [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/1511.06434).
