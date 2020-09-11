@@ -1,6 +1,6 @@
 # Generating faces with Generative Adversarial Network (GAN)
 This repo contains an implementation of a DCGAN using PyTorch, for creating new faces.\
-Here are some faces the model generated (the gray ones are from the older, keras version; the others - from the PyTorch version):
+Here are some faces the model generated (the gray ones are from the older, keras version; the others - from the PyTorch version):\
 ![Gray scale generated faces](https://raw.githubusercontent.com/LoliamShely/Face-generation-with-GAN/master/example_2.png)
 ![First colored faces](https://raw.githubusercontent.com/LoliamShely/Face-generation-with-GAN/master/example_1.png)
 ![The better, PyTorch implementation generation](https://raw.githubusercontent.com/LoliamShely/Face-generation-with-GAN/master/generated.png)
